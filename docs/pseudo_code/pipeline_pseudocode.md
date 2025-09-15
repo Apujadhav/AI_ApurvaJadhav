@@ -1,1 +1,2 @@
-pseudo_code/pipeline_pseudocode.md
+
+Delete misplaced pseudo_code folder from docs
