@@ -1,2 +1,1 @@
-Add pipeline_pseudocode.md
 pseudo_code/pipeline_pseudocode.md
